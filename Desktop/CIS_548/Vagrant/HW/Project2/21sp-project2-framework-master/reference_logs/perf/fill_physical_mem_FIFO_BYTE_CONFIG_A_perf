@@ -1,0 +1,8 @@
+Test Name: fill_physical_mem_FIFO_BYTE_CONFIG_A
+******** PERFORMANCE STATS START ********
+Total Disk Writes: 0
+Total Evictions: 0
+Total Page Faults: 16
+Total TLB Hits: 0
+Total TLB Misses: 0
+******** PERFORMANCE STATS END ********

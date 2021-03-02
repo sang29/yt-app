@@ -1,0 +1,8 @@
+Test Name: test_clean_dirty_eviction_FIFO_DWORD_CONFIG_A
+******** PERFORMANCE STATS START ********
+Total Disk Writes: 32
+Total Evictions: 48
+Total Page Faults: 64
+Total TLB Hits: 0
+Total TLB Misses: 0
+******** PERFORMANCE STATS END ********

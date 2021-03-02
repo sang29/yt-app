@@ -1,0 +1,8 @@
+Test Name: test_access_pattern_clock_CLOCK_BYTE_CONFIG_A
+******** PERFORMANCE STATS START ********
+Total Disk Writes: 9
+Total Evictions: 9
+Total Page Faults: 25
+Total TLB Hits: 0
+Total TLB Misses: 0
+******** PERFORMANCE STATS END ********

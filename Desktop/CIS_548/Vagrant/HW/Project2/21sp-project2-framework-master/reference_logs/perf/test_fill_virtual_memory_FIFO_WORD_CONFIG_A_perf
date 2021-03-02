@@ -1,0 +1,8 @@
+Test Name: test_fill_virtual_memory_FIFO_WORD_CONFIG_A
+******** PERFORMANCE STATS START ********
+Total Disk Writes: 16
+Total Evictions: 16
+Total Page Faults: 32
+Total TLB Hits: 0
+Total TLB Misses: 0
+******** PERFORMANCE STATS END ********

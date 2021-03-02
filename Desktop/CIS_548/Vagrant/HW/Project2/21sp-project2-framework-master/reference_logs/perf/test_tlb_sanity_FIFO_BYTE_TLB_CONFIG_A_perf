@@ -1,0 +1,8 @@
+Test Name: test_tlb_sanity_FIFO_BYTE_TLB_CONFIG_A
+******** PERFORMANCE STATS START ********
+Total Disk Writes: 4
+Total Evictions: 4
+Total Page Faults: 20
+Total TLB Hits: 1016
+Total TLB Misses: 24
+******** PERFORMANCE STATS END ********

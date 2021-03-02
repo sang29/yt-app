@@ -1,0 +1,8 @@
+Test Name: test_access_pattern_lru_LRU_BYTE_CONFIG_A
+******** PERFORMANCE STATS START ********
+Total Disk Writes: 8
+Total Evictions: 8
+Total Page Faults: 24
+Total TLB Hits: 0
+Total TLB Misses: 0
+******** PERFORMANCE STATS END ********
